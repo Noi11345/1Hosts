@@ -1,0 +1,5 @@
+# Shevery (Comput Console AI provider presets)
+together.xyz
+api.together.xyz
+deepinfra.com
+api.deepinfra.com
