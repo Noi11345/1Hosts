@@ -1,0 +1,3 @@
+# AirSync
+api.airsync.net
+gateway.airsync.net
